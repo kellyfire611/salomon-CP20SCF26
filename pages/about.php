@@ -7,13 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Trang chủ</h1>
-    <?php
-    echo '<h1 style="color: blue;">Xin chào PHP</h1>';
-    ?>
+    <h1>Giới thiệu</h1>
 
-    <a href="pages/about.php">Giới thiệu</a><br />
-    <a href="pages/contact.php">Liên hệ</a><br />
+    <a href="../index.php">Quay về trang chủ</a>
 </body>
 </html>
-

@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Giới thiệu</h1>
+    <h1>Liên hệ</h1>
+
+    <a href="../index.php">Quay về trang chủ</a>
 </body>
 </html>
